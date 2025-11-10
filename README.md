@@ -18,4 +18,6 @@ i there! I'm **Suraj Sa**, an aspiring **Software Engineer**<br><br>I thrive on 
 ---
 [![](https://visitcount.itsvg.in/api?id=Surajsa19&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/Surajsa19/Surajsa19/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
