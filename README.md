@@ -1,5 +1,5 @@
 # 💫 About Me:
-i there! I'm **Suraj Sa**, an aspiring **Software Engineer**<br><br>I thrive on building scalable, high-performance web applications and love tackling complex problems using efficient data structures and algorithms.
+i there! I'm **Suraj Sa**, an aspiring **Market Analyst & Software Engineer**<br><br>I thrive on building scalable, high-performance web applications and love tackling complex problems using efficient data structures and algorithms and thinking beyond capabilities using my critical thinking.
 
 
 ## 🌐 Socials:
